@@ -5,18 +5,22 @@
   },
   "profile": {
     "name": "杨子",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "email": "yz186337@163.com",
+    "mobile": "15862533995",
+    "github": "https://github.com/yzy98",
+    "positionTitle": "前端工程师"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2019.07.30", "2021.12.15"],
+      "school": "昆士兰大学",
+      "major": "信息技术",
+      "academic_degree": "硕士研究生"
+    },
+    {
+      "edu_time": ["2013.09.01", "2017.06.30"],
+      "school": "苏州大学",
+      "major": "化学",
       "academic_degree": "本科"
     }
   ],
@@ -26,16 +30,8 @@
       "award_time": "2015"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "英语 IELTS",
+      "award_time": "2019"
     }
   ],
   "workExpList": [
