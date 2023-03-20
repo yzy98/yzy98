@@ -36,6 +36,11 @@
   ],
   "workExpList": [
     {
+      "company_name": "Ecovacs科沃斯机器人",
+      "work_time": ["2022.01", "至今"],
+      "work_desc": "软件开发工程师。使用Vue和three.js开发h5应用，以展现和自定义3d家居户型"
+    },
+    {
       "company_name": "Stubhub",
       "work_time": ["2021.05", "2021.12"],
       "work_desc": "前端实习生。使用React函数式组件和Hooks参与开发官网MyAccount页面，并使用Jest以及Enzyme测试已开发组件。"
@@ -54,34 +59,39 @@
     },
     {
       "skill_name": "React",
-      "skill_desc": "有大型前端项目经验和组件化开发经验",
+      "skill_desc": "",
+      "skill_level": 85
+    },
+    {
+      "skill_name": "Vue",
+      "skill_desc": "",
       "skill_level": 85
     }
   ],
   "projectList": [
     {
+      "project_name": "3d家居展示app",
+      "project_role": "Web3D Developer",
+      "project_time": "2022.01 - 2023.03",
+      "project_desc": "h5移动端应用，实时展示用户的3d家居户型环境，用户可以自定义编辑户型和家居环境",
+      "project_content": "公司项目。使用vue2.7开发基础组件，使用Three.js开发3d户型图，用Pinia实现状态管理"
+    },
+    {
       "project_name": "F-Mart",
       "project_role": "前端开发",
       "project_time": "2021.08 - 2021.10",
       "project_desc": "移动端农产品采购网站，用户可以实现登录登出、注册、 加入购入车或心愿单、Paypal结算、修改个人信息等操作",
-      "project_content": "使用React Hook开发组件，使用 React Router实现多页面，使用Async Await以及Promise处理异步，采用Fire base realtime database储存数据以及提供数据增改删查接口，并负责打包部署于Vercel上。"
+      "project_content": "学校项目。使用React Hook开发组件，使用 React Router实现多页面，采用Fire base realtime database储存数据以及提供数据增改删查接口，并负责打包部署于Vercel。"
     },
     {
       "project_name": "Endless Escape",
       "project_role": "游戏开发",
       "project_time": "2021.07 - 2021.10",
-      "project_desc": "2d像素风逃生游戏，玩家需要在外星人入侵的情况下尽可能活得更久，以此刷新历史最高分",
+      "project_desc": "学校项目。2d像素风逃生游戏，玩家需要在外星人入侵的情况下尽可能活得更久，以此刷新历史最高分",
       "project_content": "实现游戏背景以及地面自动向前滚动，同时随机生成不同的地形；实现击败外星人首脑后跳入奖励关卡。"
-    },
-    {
-      "project_name": "V-master",
-      "project_role": "独立开发",
-      "project_time": "2021.03 - 2019.05",
-      "project_desc": "在线视频分享网站，用户可以实现登录注册、视频上传/下载、评论等操作。",
-      "project_content": "按课程要求使用PHP，MySQL， HTML，Bootstrap和JavaScript开发的MVC模式前后端不分离项目。使用AJAX异步处理用户评论。"
     }
   ],
   "aboutme": {
-    "aboutme_desc": "乐观向上，热爱钻研，喜欢尝试新技术；\n热爱前端技术，有丰富的校园项目经验，以及半年互联网公司实习经验，适应速度较快；\n英语听说读写无障碍。"
+    "aboutme_desc": "乐观向上，热爱钻研，喜欢尝试新技术；\n热爱前端技术和Web3D，有较强的适应能力；\n英语听说读写无障碍。"
   }
 }
