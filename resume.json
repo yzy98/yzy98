@@ -1,62 +1,61 @@
 {
   "titleNameMap": {
-     "educationList": "教育背景",
-     "workExpList": "工作经历",
-     "projectList": "项目经历",
-     "skillList": "个人技能",
-     "awardList": "更多信息",
-     "workList": "个人作品",
-     "aboutme": "自我介绍"
+     "educationList": "Education",
+     "workExpList": "Work Experience",
+     "projectList": "Project Experience",
+     "skillList": "Skills",
+     "awardList": "Language",
+     "aboutme": "About Me"
   },
   "avatar": {
      "hidden": false
   },
   "profile": {
-     "name": "杨子",
+     "name": "Zi Yang",
      "email": "yz186337@163.com",
      "mobile": "15862533995",
      "github": "https://github.com/yzy98",
-     "positionTitle": "前端工程师"
+     "positionTitle": "Front-end Engineer"
   },
   "educationList": [
     {
       "edu_time": ["2019.07.30", "2021.12.15"],
-      "school": "昆士兰大学",
-      "major": "信息技术",
-      "academic_degree": "硕士研究生"
+      "school": "The University of Queensland",
+      "major": "Information Technology",
+      "academic_degree": "Master"
     },
     {
       "edu_time": ["2013.09.01", "2017.06.30"],
-      "school": "苏州大学",
-      "major": "化学",
-      "academic_degree": "本科"
+      "school": "Soochow University",
+      "major": "Chemistry",
+      "academic_degree": "Bachelor"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
+      "award_info": "CET6",
       "award_time": "2015"
     },
     {
-      "award_info": "英语 IELTS",
+      "award_info": "IELTS(7.0 overall)",
       "award_time": "2019"
     }
   ],
   "workExpList": [
     {
-      "company_name": "Ecovacs科沃斯机器人",
-      "work_time": ["2022.01", "至今"],
-      "work_desc": "软件开发工程师。使用vue composition API封装hooks和组件; 使用Vue和three.js开发h5应用，以展现和自定义3d家居户型。"
+      "company_name": "Ecovacs",
+      "work_time": ["2022.01", "current"],
+      "work_desc": "Web-3D Developer. Use Vue.js to develop h5 application, in which Three.js has been used to display customers' 3D house environment. Users can customize walls, floors as well as furniture in 3D version."
     },
     {
       "company_name": "Stubhub",
       "work_time": ["2021.05", "2021.12"],
-      "work_desc": "前端实习生。使用React函数式组件和Hooks参与开发官网MyAccount页面，并使用Jest以及Enzyme测试已开发组件。\n\n\n"
+      "work_desc": "Front-end intern. Use React functional components and hooks to develop single-page applications, and write test units by using Jest as well as Enzyme. \n\n\n"
     }
   ],
   "skillList": [
      {
-        "skill_name": "HTML 和 CSS",
+        "skill_name": "HTML && CSS",
         "skill_desc": "",
         "skill_level": 89
      },
@@ -79,30 +78,27 @@
   ],
   "projectList": [
     {
-      "project_name": "3d家居展示app",
-      "project_role": "Web3D Developer",
+      "project_name": "3D house",
+      "project_role": "Web3d Developer",
       "project_time": "2022.01 - 2023.03",
-      "project_desc": "h5移动端应用，实时展示用户的3d家居户型环境，用户可以自定义编辑户型和家居环境",
-      "project_content": "公司项目。使用vue2.7开发基础组件，使用Three.js开发3d户型图，用Pinia实现状态管理。\n\n"
+      "project_desc": "h5 application. Display customers' 3D house environment. Users can customize walls, floors and furniture in 3D version.",
+      "project_content": "Use Vue 2.7 to develop basic components and Three.js to create 3d house environment and realize users' customized operations. Pinia has been imported to achieve global state management. \n\n"
     },
     {
       "project_name": "F-Mart",
-      "project_role": "前端开发",
+      "project_role": "Front-end Developer",
       "project_time": "2021.08 - 2021.10",
-      "project_desc": "移动端农产品采购网站，用户可以实现登录登出、注册、 加入购入车或心愿单、Paypal结算、修改个人信息等操作",
-      "project_content": "学校团队项目。使用React Hook开发组件，使用 React Router实现多页面，采用Fire base realtime database储存数据以及提供数据增改删查接口，并负责打包部署于Vercel。\n项目地址: https://github.com/yzy98/DECO7381-prj \n\n"
+      "project_content": "A mobile web application developed by React Native. Users are able to login/logout, add to cart/wishlist, checkout by Paypal and modify personal information and so on. React Router has been used to achieve muptiple pages and Fire base realtime database has been utilized to store users' data.\n Project address: https://github.com/yzy98/DECO7381-prj \n\n"
     },
     {
       "project_name": "Endless Escape",
-      "project_role": "游戏开发",
+      "project_role": "Game Developer",
       "project_time": "2021.07 - 2021.10",
-      "project_desc": "学校团队项目。2d像素风逃生游戏，玩家需要在外星人入侵的情况下尽可能活得更久，以此刷新历史最高分",
-      "project_content": "实现游戏背景以及地面自动向前滚动，同时随机生成不同的地形；实现击败外星人首脑后跳入奖励关卡。\n项目地址: https://github.com/UQdeco2800/2021-ext-studio-2 \n\n"
+      "project_content": "A student-time project(2D pixel style escaping game). Players need to live as long as possible with the background of alien invasion, and try to refresh the highest score in history. If the character moves forward, terrains and background images will be generated randomly and infinitely. \n Project address: https://github.com/UQdeco2800/2021-ext-studio-2  \n\n"
     }
   ],
-  "workList": [],
   "aboutme": {
-     "aboutme_desc": "    前端工程师，一年多大型复杂产品开发经验，负责科沃斯集团 h5移动端3d页面开发，参与了从基础组件封装到3d场景绘制的开发工作。\n    乐观向上，热爱钻研，喜欢尝试新技术；\n热爱前端技术和Web3D，有较强的适应能力；\n英语听说读写流利。\n    "
+     "aboutme_desc": "I am a front-end developer who has more then one-year working experience in developing web applications. In the past year, I has been in charge of encapsulating basic components and creating 3D scenes. \n I am eager to learn new technologies. \n I love sports🏀!!!"
   },
   "theme": {
      "color": "#2f5785",
