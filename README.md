@@ -5,11 +5,11 @@
 
 - 🤝 I’m working on open-source [Next.js Starter Template Paddle](https://github.com/yzy98/nextjs-starter-template-paddle)
 
-- 👨‍💻 All of my projects are available at [https://zyang.space/](https://zyang.space/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://zyang.space/projects/)
 
-- 📫 How to reach me **contact@zyang.xyz**
+- 📫 How to reach me **yz186337@gmail.com**
 
-- 📄 Know about my experiences [https://zyang.space/resume.pdf](https://zyang.space/resume.pdf)
+- 📄 Know about my experiences [resume](https://zyang.space/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
