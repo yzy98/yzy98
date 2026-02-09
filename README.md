@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zi Yang</h1>
 <h3 align="center">A passionate web developer from China</h3>
 
-- 🔭 I’m currently launching a SaaS [YouTube Comments Chat](https://ytbcc.zyang.xyz/)
+- 🔭 I’m currently launching a SaaS [YouTube Comments Chat](https://ytbcc.zyang.space/)
 
 - 🤝 I’m working on open-source [Next.js Starter Template Paddle](https://github.com/yzy98/nextjs-starter-template-paddle)
 
-- 👨‍💻 All of my projects are available at [https://zyang.xyz/](https://zyang.xyz/)
+- 👨‍💻 All of my projects are available at [https://zyang.space/](https://zyang.space/)
 
 - 📫 How to reach me **contact@zyang.xyz**
 
-- 📄 Know about my experiences [https://zyang.xyz/resume.pdf](https://zyang.xyz/resume.pdf)
+- 📄 Know about my experiences [https://zyang.space/resume.pdf](https://zyang.space/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
