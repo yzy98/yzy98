@@ -24,53 +24,6 @@
 
 ---
 
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">IntentSwap</h3>
-      <p align="center">
-        <a href="https://github.com/yzy98/intentswap" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
-      <p align="center">A decentralized crypto dApp enabling intent-based token swaps with smart contract settlement on-chain.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Next.js Starter Template</h3>
-      <p align="center">
-        <a href="https://github.com/yzy98/nextjs-starter-template-paddle" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
-      <p align="center">A production-ready Next.js starter template with Paddle integration for SaaS projects. Open source and community-driven.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">YouTube Comments Chat</h3>
-      <p align="center">
-        <a href="https://ytbcc.zyang.space/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Visit%20Site-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
-        </a>
-      </p>
-      <p align="center">An interactive tool that transforms YouTube comment sections into a chat-like conversational experience.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">More Projects</h3>
-      <p align="center">
-        <a href="https://zyang.space/projects/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-View%20All-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="All Projects" />
-        </a>
-      </p>
-      <p align="center">Check out my full portfolio for more work, experiments, and side projects.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Tech Stack
 
 <div align="center">
