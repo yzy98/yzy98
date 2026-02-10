@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=yzy98&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9
+          options: username=yzy98&show_icons=true&hide_rank=true&theme=dracula
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=yzy98&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9
+          options: username=yzy98&layout=pie&hide=html,javascript,php&theme=dracula
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
