@@ -9,7 +9,7 @@
   <a href="https://zyang.space/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20PDF-00C853?style=for-the-badge&logo=files&logoColor=white" alt="Resume" /></a>
 </p>
 
-<p>Passionate web developer from China building modern, performant web applications.<br/>I love open source, clean code, and turning ideas into reality.</p>
+<p>Passionate web developer building modern, performant web applications.<br/>I love open source, clean code, and turning ideas into reality.</p>
 
 </div>
 
@@ -46,6 +46,7 @@
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Web3**
 
@@ -60,7 +61,6 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
 </div>
 
