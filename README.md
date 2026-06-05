@@ -18,9 +18,9 @@
 ### About Me
 
 - Building polished web apps with **React**, **Next.js**, and **TypeScript**
-- Diving into **Web3** — built [IntentSwap](https://intentswap.zyang.space/), a decentralized intent-based token swap dApp
-- Maintaining open-source [Next.js Starter Template with Paddle](https://github.com/yzy98/nextjs-starter-template-paddle)
-- Exploring all my projects on [zyang.space/projects](https://zyang.space/projects/)
+- Maintaining open-source [ExtStack](https://github.com/yzy98/ext-stack), [Next.js Starter Template with Paddle](https://github.com/yzy98/nextjs-starter-template-paddle)
+- Diving into Web3 — built [IntentSwap](https://intentswap.zyang.space/), a decentralized intent-based token swap dApp
+- Built a Chrome extension [YouTube Comments Chat](https://ytbcc.zyang.space/)
 
 ---
 
